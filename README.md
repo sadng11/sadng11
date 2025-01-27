@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm **Sadegh Naghibzadeh**, a passionate **Senior Back-End Developer** 🚀. I specialize in designing scalable and efficient back-end systems using modern frameworks and tools. With a strong focus on **Laravel** and **Django**, I love creating solutions that make an impact! 🌟
+I'm **Sadegh**, a passionate **Senior Back-End Developer** 🚀.  
+I specialize in designing scalable and efficient back-end systems using modern frameworks and tools.  
+With a strong focus on **Python** (Django, Flask), **Laravel**, and databases like **MySQL** and **PostgreSQL**, I love creating solutions that make an impact! 🌟
 
 📧 **Email:** [sadng11@gmail.com](mailto:sadng11@gmail.com)
 
